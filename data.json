@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "startevent": "Arsenal vs Chelsea",
+      "dateevent": "2025-05-30",
+      "starttime": "19:00:00",
+      "strhometeam": "Arsenal",
+      "startawayteam": "Chelsea"
+    }
+  ]
+}
